@@ -1,0 +1,1 @@
+Arquivo de exemplo demonstrando o uso da função de decodificar no golang
